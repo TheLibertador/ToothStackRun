@@ -1,0 +1,17 @@
+{
+  "store": "google",
+  "gameEngine": "unity",
+  "audienceModeBuildOnly": "non-children",
+  "orientation": "portrait",
+  "geoLocationServer": "ttplugins.ttpsdk.info",
+  "appId": "",
+  "bundleId": "com.SuperCatGames.ToothRun3D",
+  "testMode": false,
+  "askForTracking": false,
+  "isAdMob": true,
+  "appBuildConfig": {
+    "admob": {
+      "application": ""
+    }
+  }
+}
